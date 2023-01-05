@@ -8,7 +8,7 @@ type in your answer. When you press the "Submit" button or press enter, the prog
 answer. If the answer is correct, color of the word will flash green and a new word will be displayed.
 If the answer is incorrect, the word will flash red. If the timer runs out, the word will flash red and
 a new word will be displayed. The program will keep track of how many words you get correct and how 
-many you get incorrect. It will display your stats at the bottom of the window.
+many you get incorrect. It will display your stats at the top of the window.
 
 A file called "words.txt" must be in the same directory as this program. The file should contain
 a list of words, one word per line. The program will use this file to generate random words.
