@@ -1,5 +1,8 @@
 # IPA-Trainer
 
+![2023-01-05 17_59_56-Epic Pen Content Surface_ __ _DISPLAY1](https://user-images.githubusercontent.com/1208700/210897608-696385dc-07b5-4a4f-853e-e6db460467ef.png)
+
+
 This program is a simple tool to help you learn the International Phonetic Alphabet (IPA). It is written in Python using the `customtkinter` and `tkinter` modules. It contains a list of the 1000 most common english words and will random display one in IPA format. The user then has
 10 seconds to answer with the word in english or gets the answer incorrect.
 
