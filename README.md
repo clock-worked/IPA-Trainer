@@ -14,7 +14,8 @@ To start the program, run the following command:
 
 `python ipa_trainer.py`
 
-Alternatively, you can download the pre-compiled executable from the releases tab.
+Alternatively, you can download the pre-compiled executable from the [releases tab](https://github.com/Chadwick2332/IPA-Trainer/releases).
+
 
 ## How to Play
 
